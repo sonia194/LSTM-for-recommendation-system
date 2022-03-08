@@ -4,7 +4,7 @@ The result of the SA can be visualized to perform opinion mining of customers on
 
 For this project, the exploratory Data Analysis was carried out on the amazon cell phone and accessories dataset and sentence-level sentiment classification was performed on each and every review using LSTM-SA. 
 
-- This is an overview of my proposed method of sentiment analysis
+- This is an overview of my proposed method for sentiment analysis
 
 
 
